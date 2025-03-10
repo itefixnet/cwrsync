@@ -4,3 +4,5 @@ A barebone distribution of Rsync client for Windows. That's all you need to ini
 ![cwRsync client](https://github.com/itefixnet/cwrsync/blob/main/cwRsync_client.png)
 
 If you need to serve rsync requests from your computer, you need to set up an rsync daemon, which we provide [as a paid solution](https://itefix.net/cwrsync/server). We do also provide an [Rsync client helper GUI](https://itefix.net/rsync-client-helper-gui) as a product.
+
+Provided by [itefix.net](https://itefix.net)
